@@ -206,5 +206,29 @@
         "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
       }
     }
+  },
+  "0xa39c0f0dbac8b88d035c877933e24e6b36203ca0ab38164bd1b7f8af51f1b802": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x229Fbf0534a6150C9Ff64EC5F4129c3785Ef8579"
+      }
+    }
+  },
+  "0x8200d497a02e1d09ef208a3aa24664f23a4be074946ed629d5b07cf0d8e95d15": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0xBDf94356ee9d1b00074210317B17E4B07B1a8386"
+      }
+    }
+  },
+  "0x826d8a96f9feae4579dceb366ce51a69bc9256f71e49935cfbdcf809c49c654b": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x0d53a624226c5bEe20FC3752276BbaAf9cE066E1"
+      }
+    }
   }
 }
