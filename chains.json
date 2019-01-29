@@ -1,0 +1,210 @@
+{
+  "0xdbd9901d3a5c5256e61da6850fb4107439bab8f18ce845b2af217f9f42d1f068": {
+    "contracts": {
+      "0x49d030ab3712f37ac8e89689124b1416bbce3af43adc0d0330945f183e982004": {
+        "name": "MyContract",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      },
+      "0x3043b04ad856d169c8f0b0509c0bc63192dc7edd92d6933c58708298a0e381be": {
+        "name": "ENSRegistry",
+        "address": "0x10Aa1c9C2ad79b240Dc612cd2c0c0f5513bAfF28"
+      },
+      "0x710720b34a16c4d4634391c07fbdf6c738ae8df353d86c51c615bc8cfe364187": {
+        "name": "Resolver",
+        "address": "0xd8a512EBD6fd82f44dFFD968EEB0835265497d20"
+      },
+      "0xd7062060e3f38fb3d85ecfca333059e2548de66d79d97f7e51dbeb584bf3641d": {
+        "name": "FIFSRegistrar",
+        "address": "0x494748735312D87C54Ff36E9dc71f90fb800D7Df"
+      }
+    }
+  },
+  "0x5b7923eb32f0204e38539b29d96e5b0f7e08a01c77aaa1df7a5573b2b05ab41b": {
+    "contracts": {
+      "0x49d030ab3712f37ac8e89689124b1416bbce3af43adc0d0330945f183e982004": {
+        "name": "MyContract",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      },
+      "0x3043b04ad856d169c8f0b0509c0bc63192dc7edd92d6933c58708298a0e381be": {
+        "name": "ENSRegistry",
+        "address": "0x10Aa1c9C2ad79b240Dc612cd2c0c0f5513bAfF28"
+      },
+      "0x710720b34a16c4d4634391c07fbdf6c738ae8df353d86c51c615bc8cfe364187": {
+        "name": "Resolver",
+        "address": "0xd8a512EBD6fd82f44dFFD968EEB0835265497d20"
+      },
+      "0xd7062060e3f38fb3d85ecfca333059e2548de66d79d97f7e51dbeb584bf3641d": {
+        "name": "FIFSRegistrar",
+        "address": "0x494748735312D87C54Ff36E9dc71f90fb800D7Df"
+      }
+    }
+  },
+  "0xb5096421930a3985ac92834830f0f3c2559bb5af8c81711fc75a6271e95f9457": {
+    "contracts": {
+      "0xf7f9b66011341cd54721998e33e69645fab5eb88ae634745d123f68469803a53": {
+        "name": "MyContract",
+        "address": "0x986838826319e5369840a847b14dc3AC13e82c7F"
+      }
+    }
+  },
+  "0x3b031e5c2ee316d2061d4f631f54d440708576e21be969bf84001c7de4924544": {
+    "contracts": {
+      "0xf7f9b66011341cd54721998e33e69645fab5eb88ae634745d123f68469803a53": {
+        "name": "MyContract",
+        "address": "0xeEE6DbaAD36e95946fa4345373231eB5f86C51A5"
+      }
+    }
+  },
+  "0x93fe6f175db0f61cba1594031298204e22aedada67a1b5eb64ef1efc84abbd46": {
+    "contracts": {
+      "0xf7f9b66011341cd54721998e33e69645fab5eb88ae634745d123f68469803a53": {
+        "name": "MyContract",
+        "address": "0x2A17826f72Cd008c435aD0312686B139DB904068"
+      }
+    }
+  },
+  "0x0716c5cf00829bf4f3662869263d2e74672a5fd17fa74f47012c9797139ac372": {
+    "contracts": {
+      "0xf7f9b66011341cd54721998e33e69645fab5eb88ae634745d123f68469803a53": {
+        "name": "MyContract",
+        "address": "0x72C4da880387CDA6449d45221bcC5202E28e321f"
+      }
+    }
+  },
+  "0xbbb496b15caf271ce9f69888fe2fece57f8d1f54a2ff7889a412e49c619ef411": {
+    "contracts": {
+      "0xf7f9b66011341cd54721998e33e69645fab5eb88ae634745d123f68469803a53": {
+        "name": "MyContract",
+        "address": "0x43fB51c010a2c27Ff7c51353Df7c01e36cdAbA7c"
+      }
+    }
+  },
+  "0x8cc4aaa82fb84bfabfae6632aaf4790414364d9be8812581b7bc04c2c27f163e": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x196c8A1305c7509303865629678375B2eB891405"
+      }
+    }
+  },
+  "0xec68c425a77e46f8753f092ce9571942bde9955cff03cd3a366133b74efd03b0": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x6f834cf14f136977Adc906457e89e7Cb50f420c7"
+      }
+    }
+  },
+  "0x50bbe5b6125628a384b91ba28c6b466677bddeabd698ccfcaa597dff4defe0e4": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0xb728572c909B83e7F2f6686E98E6aD2367fe0C2B"
+      }
+    }
+  },
+  "0xe456e49c54df0ea2d14b493901909d657233a450f4add408eb72adb2c1e4c7a2": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x0f70b3aff6dF8E652Ea18D7c485426DBda69Fcf5"
+      }
+    }
+  },
+  "0xe7b8bdebab5a36b7ccb5e4989e886150060b779b8e1fa454b5e3c2d7e709bcf8": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x0DE388036F76ca3F71424a93DFf7CdD0B04AaaaE"
+      }
+    }
+  },
+  "0xeb1786970b63aabda05f4a4d09edb16138bce65654c0740c6733a52cee9fd7ec": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x3A50FBa31e225a5Fd8a7A72b4B4180683A85aC46"
+      }
+    }
+  },
+  "0xbf38448430165278d1eaee9a6c047a8324fe8b071d630bb9e06fad621e1fadf6": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x7327B8F2b1bB153015f864AcBA3EBFd331B0253d"
+      }
+    }
+  },
+  "0xa757b93649849e813bb2fd84854ba3048381c35c5a4bcc8e71749fd8e2433fce": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0xedEee596D622421Ab5b906562C3B54feEd6EaB47"
+      }
+    }
+  },
+  "0x343f69ec17a83eeeba67089a0635919d3811584580750d5b95047a94aab6d6f0": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x1EeE79497c72788CC28C8b683053D70043d1846d"
+      }
+    }
+  },
+  "0x0e944dd8a7cef428ffe98d9d0e76aa05ee4249e0b0aeba257ffa0b4edf81c55a": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x936deFC40475A87DfCEbb4C6f69c109d4742203d"
+      }
+    }
+  },
+  "0x172d91a286a418817fd4596fcd1d24db5460b00b636d1b3e00d5b0d55032f4d6": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0xc9321bf71F4044eEf9AC69dAe1D0b4D52a05BCCf"
+      }
+    }
+  },
+  "0xa8e93eb1e82aabe9ae69b48f9e1a592806da1b970960cc1be4edbf97efc6b937": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0xC1E5b4C4779011B8aab7af565a109Ad88340179E"
+      }
+    }
+  },
+  "0x14192d0cd3e56f832629ca489102fef5c8169cec2a3c47b74eedf16be4aa0cdd": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x0fE3e4793375c1FBE53Aa3ec2FA91b8B17baC315"
+      }
+    }
+  },
+  "0x95c9453691aaf1f8647097bb725b9512a9bc9e85f68064fbcaa200661f474efc": {
+    "contracts": {
+      "0xaf2738642963ee20fb3d8a92a4b5e9aea66c577761d3a29a58ad4f43e244808d": {
+        "name": "MyContract",
+        "address": "0x8F3A50708BD7E5B95283B9F91311E5251673aDCc"
+      }
+    }
+  },
+  "0xb411c9dc9ab4a648821101b5a07347ec5b5a7779f18c191f911ae01db05f68f2": {
+    "contracts": {
+      "0xc43c48d12612008c4eb7c80334759917ad52ff5f0da68995c05af480da54343a": {
+        "name": "MyContract",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    }
+  },
+  "0xdf3e26c4e0b20592450d6aa9e202048b672f2fc3eedb793766ea49e13d855d8f": {
+    "contracts": {
+      "0xc43c48d12612008c4eb7c80334759917ad52ff5f0da68995c05af480da54343a": {
+        "name": "MyContract",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    }
+  }
+}
