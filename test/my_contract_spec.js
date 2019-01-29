@@ -35,10 +35,14 @@ contract("MyContract", function () {
   })
 
   it('Lets no one else set a new message', async () => {
-    let oldMessage = await MyContract.methods.myMessage().call();
     let newMessage = "Hello, stranger.";
-    await MyContract.methods.setMessage(newMessage).send({ from: accounts[1] })
-    let changedMessage = await MyContract.methods.myMessage().call();
-    assert.equal(changedMessage, oldMessage, "Non-owner set a new message.");
+    try {
+      await MyContract.methods.setMessage(newMessage).send({ from: accounts[1] })
+      assert.fail("setMessage call should have thrown an error.")
+    } catch(err) {
+      assert(err, "Expected an error but did not get one");
+      assert(err.message.endsWith("Only owner can call this function."), 
+        "Expected failure due to `onlyOwner`, but got: '" + err.message + "' instead.");
+    }
   })
 })
